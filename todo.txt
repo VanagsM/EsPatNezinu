@@ -1,0 +1,6 @@
+Izveidot reģistrāciju lietotājam, pievienot to db, pievienot manuāli role tam cilvēkam. 
+
+Atkarībā kādu role tu piešķir cilvēkam tu izvadi konkrētu bildi vai ko citu uz ekrāna. Piemērs iekš AbstractClasses.php .
+Iespējams ar šo var arī uztaisīt kādas sadaļas tu redzi??
+
+
